@@ -28,6 +28,7 @@ $ sudo dpkg -i vagrant_1.9.1_x86_64.deb
 ```
 ### 2. Install Requirements for Debian-based Linux , Ubuntu/Mint (32-bit):
 **2.1 Install virtualbox:**
+TODO
 **2.2 Install Vagrant:**
 ```shell
 $ wget https://releases.hashicorp.com/vagrant/1.9.1/vagrant_1.9.1_i686.deb
@@ -35,14 +36,21 @@ $ sudo dpkg -i vagrant_1.9.1_i686.deb
 ```
 ### 3. Install Requirements for RedHat-based distributions (64-bit):
 **3.1 Install virtualbox:**
+TODO
 **3.2 Install Vagrant:**
+```shell
+$ sudo yum -y install https://releases.hashicorp.com/vagrant/1.9.1/vagrant_1.9.1_x86_64.rpm
+```
 ### 4. Install Requirements for RedHat-based distributions (32-bit):
 **4.1 Install virtualbox:**
+TODO
 **4.2 Install Vagrant:**
-
+```shell
+$ sudo yum -y install https://releases.hashicorp.com/vagrant/1.9.1/vagrant_1.9.1_i686.rpm
+```
 ## Deploy Lab Environment
 TODO
-## Lab Credentials
-TODO
 ## How to use it ?
+TODO
+## Lab Credentials
 TODO
